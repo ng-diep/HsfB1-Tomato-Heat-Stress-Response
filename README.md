@@ -2,7 +2,12 @@
 
 This repository contains an RNA-seq analysis investigating the role of **Heat Shock Factor HsfB1** in the tomato heat-stress response using **HsfB1 knockdown (KD)** and **overexpression (OE)** models.
 
-The project was implemented in **RStudio**, using **DESeq2** for differential expression analysis and **ggplot2** for data visualization.
+The project was implemented in **RStudio**, using **DESeq2** for differential expression analysis and **dplyr** and **ggplot2** for data wrangling and visualization.
+
+The complete rendered Quarto report is available through GitHub Pages:
+
+👉 **[View the interactive analysis report](https://ng-diep.github.io/HsfB1-Tomato-Heat-Stress-Response/)**
+
 
 ## Experimental Design
 
