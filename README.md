@@ -6,7 +6,7 @@ The project was implemented in **RStudio**, using **DESeq2** for differential ex
 
 The complete rendered Quarto report is available through GitHub Pages:
 
-👉 **[View the interactive analysis report](https://ng-diep.github.io/HsfB1-Tomato-Heat-Stress-Response/)**
+👉 **[View the interactive analysis protocol](https://ng-diep.github.io/HsfB1-Tomato-Heat-Stress-Response/)**
 
 
 ## Experimental Design
@@ -18,8 +18,3 @@ The experiment compares HsfB1 KD and OE samples under **control (Group A)** and 
 - **Group A:** 25°C control
 - **Group B:** 40°C heat shock for 1 hour
 
-## Interactive Report
-
-The complete rendered Quarto report is available through GitHub Pages:
-
-👉 **[View the interactive analysis report](https://ng-diep.github.io/HsfB1-Tomato-Heat-Stress/)**
